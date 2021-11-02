@@ -1,0 +1,13 @@
+This is a part of the evolutionary computing. The program has:
+1. Random Genotype Generator
+2. Mutation
+3. Cut and Crossover
+4. Fitness Measurement
+
+The Random Genotype generator generates different positions(genotype) where the
+Queen's will be placed.
+The Mutation helps to create the different genotypes for the variety of the Queen's 
+position.
+Cut and Crossover helps to create a new genotype using two parent genotypes.
+Fitness Measurement will decide which configuration of the Queens's is the best
+placed where no Queen's threaten the other queen.
